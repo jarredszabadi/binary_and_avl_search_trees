@@ -171,8 +171,6 @@ public class AVLDictionary<E, K extends Sortable> implements Dictionary<E,K>
      * @param node - current node for traversal
      * 
      * 
-     * NOT WORKING
-     * ALGORITHM
      * 1)delete node
      * 2)rebalance
      */
